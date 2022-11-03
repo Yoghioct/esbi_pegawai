@@ -42,7 +42,7 @@
                     <!-- mini logo for sidebar mini 50x50 pixels -->
                     <span class="logo-mini"><b>A</b>LT</span>
                     <!-- logo for regular state and mobile devices -->
-                    <span class="logo-lg"><b>BROCODE</b>LTE</span>
+                    <span class="logo-lg"><b>ESBI</b> INDONESIA</span>
                 </a>
                 <!-- Header Navbar: style can be found in header.less -->
                 <nav class="navbar navbar-static-top">
@@ -127,7 +127,7 @@
                     <!-- Home tab content -->
                     <div class="tab-pane" id="control-sidebar-home-tab">
                         <h3 class="control-sidebar-heading">Recent Activity</h3>
-                        <ul class="control-sidebar-menu">
+                        <!-- <ul class="control-sidebar-menu">
                             <li>
                                 <a href="javascript:void(0)">
                                     <i class="menu-icon fa fa-birthday-cake bg-red"></i>
@@ -172,10 +172,10 @@
                                     </div>
                                 </a>
                             </li>
-                        </ul>
+                        </ul> -->
                         <!-- /.control-sidebar-menu -->
 
-                        <h3 class="control-sidebar-heading">Tasks Progress</h3>
+                        <!-- <h3 class="control-sidebar-heading">Tasks Progress</h3>
                         <ul class="control-sidebar-menu">
                             <li>
                                 <a href="javascript:void(0)">
@@ -225,7 +225,7 @@
                                     </div>
                                 </a>
                             </li>
-                        </ul>
+                        </ul> -->
                         <!-- /.control-sidebar-menu -->
 
                     </div>
