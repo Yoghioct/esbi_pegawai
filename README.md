@@ -1,5 +1,5 @@
 # ESBI Test - Aplikasi Web Data Pegawai
-![alt text]([https://ibb.co/Qd6BTvL](https://i.ibb.co/vYJ5T4p/esbi-pegawai-dashboard.png))
+![Alt text](esbi_pegawai_dashboard.png?raw=true "screenshot")
 ## Main Tech Stack
 
 - CodeIgniter 3
